@@ -1,0 +1,27 @@
+.popup-container {
+    padding: 8px;
+    background-color: #1e293b; /* bg-slate-900 */
+
+    gap: 0;
+    border-radius: 8px; /* rounded-md */
+    margin: 0;
+  }
+  
+  .popup-title {
+    font-weight: 500; /* text-medium */
+    font-size: 1.125rem; /* text-lg */
+    color: white;
+    margin: 0px;
+    padding: 0px; /* Ensure no padding */
+  }
+  
+  .popup-text {
+    font-size: 0.875rem; /* text-sm */
+    color: #6366f1; /* text-indigo-400 */
+    margin: 0; /* Ensure no margin */
+    padding: 0; /* Ensure no padding */
+  }
+  
+  .popup-text span {
+    margin-left: 8px;
+  }

@@ -1,0 +1,340 @@
+{
+    "success": true,
+    "data": {
+        "countriesProfitList": [
+            {
+                "name": "USA",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 2400
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 2498
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 2600
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 2780
+                    },
+                    {
+                        "name": "May",
+                        "profit": 2890
+                    }
+                ]
+            },
+            {
+                "name": "AUS",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 2200
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 2398
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 2500
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 2600
+                    },
+                    {
+                        "name": "May",
+                        "profit": 2666
+                    },
+                    {
+                        "name": "Jun",
+                        "profit": 2766
+                    },
+                    {
+                        "name": "Jul",
+                        "profit": 2866
+                    }
+                ]
+            },
+            {
+                "name": "MNG",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 1400
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 1498
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 1600
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 1680
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1890
+                    }
+                ]
+            },
+            {
+                "name": "ZAF",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 1200
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 1298
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 1300
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 1380
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1490
+                    }
+                ]
+            },
+            {
+                "name": "FIN",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 600
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 798
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 800
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 980
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1490
+                    }
+                ]
+            },
+            {
+                "name": "UKR",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 777
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1090
+                    }
+                ]
+            },
+            {
+                "name": "NZL",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 667
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1000
+                    }
+                ]
+            },
+            {
+                "name": "IDN",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 700
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1010
+                    }
+                ]
+            },
+            {
+                "name": "ZMB",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 710
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1020
+                    }
+                ]
+            },
+            {
+                "name": "PER",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 730
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1040
+                    }
+                ]
+            },
+            {
+                "name": "CHL",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 750
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1060
+                    }
+                ]
+            },
+            {
+                "name": "MRT",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 770
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1080
+                    }
+                ]
+            },
+            {
+                "name": "PNG",
+                "data": [
+                    {
+                        "name": "Jan",
+                        "profit": 786
+                    },
+                    {
+                        "name": "Feb",
+                        "profit": 888
+                    },
+                    {
+                        "name": "Mar",
+                        "profit": 999
+                    },
+                    {
+                        "name": "Apr",
+                        "profit": 970
+                    },
+                    {
+                        "name": "May",
+                        "profit": 1099
+                    }
+                ]
+            }
+        ]
+    }
+}

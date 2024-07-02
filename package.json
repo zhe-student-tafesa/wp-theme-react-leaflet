@@ -21,6 +21,7 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "leaflet": "^1.6.0",
+    "papaparse": "^5.2.0",
     "react-leaflet": "^2.8.0",
     "react-leaflet-choropleth": "^2.0.1",
     "recharts": "^2.12.7"
