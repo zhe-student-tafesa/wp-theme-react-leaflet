@@ -25,21 +25,19 @@ const CovidMap = ({ countries }) => {
       mouseover: (event) => {
         if (layer.feature.properties.salesData != null) {
           const layer = event.target;
-          //console.log(layer.feature.properties.salesData);
+          console.log(layer.feature.properties.salesData);
           layer.setStyle({
-            fillOpacity: 1
+            fillOpacity: 1,
           });
         }
-
       },
       mouseout: (event) => {
         const layer = event.target;
         layer.setStyle({
-          fillOpacity: 0.5  
+          fillOpacity: 0.5,
         });
-      }
+      },
     });
-
 
     layer.bindPopup(function () {
       const popupContentElement = document.createElement("div");
@@ -56,7 +54,7 @@ const CovidMap = ({ countries }) => {
   };
 
   return (
-    <Map style={{ height: "90vh" }} zoom={2} center={[20, 60]}>
+    <Map style={{ height: "70vh" }} zoom={2} center={[20, 60]}>
       <GeoJSON
         style={mapStyle}
         data={countries}
